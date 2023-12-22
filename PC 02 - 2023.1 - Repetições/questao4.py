@@ -1,6 +1,3 @@
-"""Faça um programa que leia dois números n1 e n2, onde 1 <= n1 <= n2 <= 10, e que imprima a tabuada dos números entre 
-n1 e n2, conforme exemplo."""
-
 n1 = int(input('Digite n1: '))
 n2 = int(input('Digite n2: '))
 

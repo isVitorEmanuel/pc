@@ -1,7 +1,3 @@
-"""Escreva um programa que peça ao usuário dois números inteiros n1 e n2 (n2 > n1) e imprima quantos números primos 
-existem no nintervalo [n1, n2], incluindo esses dois números. Lembre-se que um número é primo se ele é divisivel apenas 
-por 1 e por ele mesmo."""
-
 n1 = int(input('n1? '))
 n2 = int(input('n2? '))
 

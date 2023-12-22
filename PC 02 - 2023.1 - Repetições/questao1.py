@@ -1,7 +1,3 @@
-"""Crie um programa que leia dois números positivos n1 e n2, ambos maiores que 1, e que imprima os números ímpares não 
-primos entre esses dois números, incluindo os próprios n1 e n2. Não assuma que n1 < n2. Se for ao contrário, troque os 
-valores de n1 com n2."""
-
 n1 = int(input('n1? '))
 n2 = int(input('n2? '))
 num_primos = ''
