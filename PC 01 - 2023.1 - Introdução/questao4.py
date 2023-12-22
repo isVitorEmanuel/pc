@@ -1,11 +1,3 @@
-"""Escreva um programa que recebe dois textos do usuário e imprime o valor das expressões de acordo com os exemplos:
-
-Texto A dividido em duas Partes: primeira_metade_texto(A) e segunda_metade_texto(A)
-Texto B dividido em duas Partes: primeira_metade_texto(B) e segunda_metade_texto(B)
-primeira_metade_texto(A) + segunda_metade_texto(B)
-segunda_metade_texto(A) + primeira_metade_texto(B)
-primeira_letra_texto(A) + segunda_letra_texto(B) + ultima_letra_texto(A) + ultima_letra_texto(B)"""
-
 a = input('Digite o texto A: ')
 b = input('Digite o texto B: ')
 

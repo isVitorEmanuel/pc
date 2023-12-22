@@ -1,7 +1,3 @@
-"""Escreva um programa que lê do usuário 3 números e imprime quem é o maior, quem é o menor e quem é o do 'meio'. Veja que
-existem diferentes casos a considerar: (1) três números iguais, (2) três números diferentes, (3) dois números iguais. Para
-cada um dos casos seu programa deve imprimir a saída de acordo com os exemplos que seguem:"""
-
 n1 = int(input('n1? '))
 n2 = int(input('n2? '))
 n3 = int(input('n3? '))

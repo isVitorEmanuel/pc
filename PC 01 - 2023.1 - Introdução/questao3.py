@@ -1,6 +1,3 @@
-"""Escreva um programa que recebe do usuário dois textos, A e B, e imprime os resultados das operações tamanho(A) - 
-tamanho(B), A + B, A contém B, B contém A, primeira letra de A, primeira letra de B, última letra de A, última letra de B."""
-
 a = input('Digite o texto A: ')
 b = input('Digite o texto B: ')
 

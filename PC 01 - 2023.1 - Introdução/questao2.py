@@ -1,5 +1,3 @@
-"""Escreva um programa que pede ao usuário os valores de x, y e z e imprime o valor das expressões que seguem, 
-de acordo com os exemplos."""
 import math
 
 x = int(input('x?'))
